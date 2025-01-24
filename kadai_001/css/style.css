@@ -206,6 +206,11 @@ footer p {
     margin-bottom: 0;
   }
 
+  .work-section .work-inner .work-item p {
+    text-align: center;
+  }
+  
+
   footer {
     margin-top: 40px;
   }
